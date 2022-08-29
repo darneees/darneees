@@ -16,8 +16,12 @@
 <p align="left">
   :computer: Principais Projetos:
   
+   SPACE  :earth_americas:
+   
   :white_check_mark: https://darneees.github.io/Landing-Space/
   
+   BUILD  :office:
+   
   :white_check_mark: https://darneees.github.io/Landing-Build/
   
 </p>
