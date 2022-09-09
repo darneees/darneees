@@ -16,10 +16,6 @@
 <p align="left">
   :computer: Principais Projetos:
   
-   PORTIFÓLIO :mortar_board:
-   
-   https://darneees.github.io/Portifolio/
-   
    SPACE  :earth_americas:
    
   :white_check_mark: https://darneees.github.io/Landing-Space/
