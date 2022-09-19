@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
   Olá devs! Meu nome é Douglas Sá. Sou <strong>Desenvolvedor Front-end</strong>.<br>
@@ -16,13 +16,13 @@
 <p align="left">
   :computer: Principais Projetos:
   
-   SPACE  :earth_americas:
-   
-  :white_check_mark: https://darneees.github.io/Landing-Space/
-  
    BUILD  :office:
    
-  :white_check_mark: https://darneees.github.io/Landing-Build/
+  :white_check_mark:  https://darneees.github.io/Landing-Build/
+  
+   THE FLOREST :deciduous_tree:
+  
+  :white_check_mark:  https://darneees.github.io/the_florest/
   
 </p>
 
