@@ -20,9 +20,9 @@
    
   :white_check_mark:  https://darneees.github.io/Landing-Build/
   
-   THE FLOREST :deciduous_tree:
+   FLOREST :deciduous_tree:
   
-  :white_check_mark:  https://darneees.github.io/the_florest/
+  :white_check_mark: 
   
 </p>
 
