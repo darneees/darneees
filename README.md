@@ -13,16 +13,4 @@
   💼 Ferramentas: <strong>Vscode, Github.</strong>
 </p>
 
-<p align="left">
-  :computer: Principais Projetos:
-  
-   BUILD  :office:
-   
-  :white_check_mark:  https://darneees.github.io/Landing-Build/
-  
-   FLOREST :deciduous_tree:
-  
-  :white_check_mark: https://darneees.github.io/landing-florest/
-  
-</p>
 
