@@ -15,4 +15,4 @@
 
 <h3>Potifólio</h3>
 
-:pushpin: 
+:pushpin: https://darneees.github.io/Redesign-Portifolio/
