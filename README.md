@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  :books: Linguagens: <strong>Html, Css, JavaScript, C, Java, Mysql.</strong>
+  :books: Tecnologias: <strong>Html, Css, JavaScript, sass, php.</strong>
 </p>
 
 <p align="left">
