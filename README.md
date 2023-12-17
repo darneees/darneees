@@ -13,6 +13,6 @@
   💼 Ferramentas: <strong>Vscode, Github.</strong>
 </p>
 
-<h3>Potifólio</h3>
+<h3>Links:</h3>
 
 :pushpin: https://darneees.github.io/bio/
