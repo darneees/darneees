@@ -15,4 +15,4 @@
 
 <h3>Potifólio</h3>
 
-:pushpin: https://darneees.github.io/Portifolio/
+:pushpin: https://darneees.github.io/bio/
