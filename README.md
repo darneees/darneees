@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Desenvolvedor Front-End Junior e UI/UX design, possuo +1 ano de experiêmcioa em desenvolvimento web e sou apaixonado por tecnologia e desafios constantes aplicadas em projetos pessoais e profissionais.
-Além disso, possuo inglês de nível intermediário em áreas como leitura e escrita, e sou capaz de formular frases e me comunicar sobre determinados assuntos.
+ Olá, me chamdo Douglas e sou desenvolvedor Front-End e UI Designer. Tenho mais de um ano de experiência em desenvolvimento web e habilidades em UI design, 
+  aplicadas em projetos práticos pessoais e profissionais. Possuo inglês entre os niveis básico ao intermediário, mas sou capaz de formular frases e me comunicar sobre determinados assuntos.
 </p>
 
 
