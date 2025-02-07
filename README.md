@@ -1,8 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
- Olá, me chamdo Douglas e sou desenvolvedor Front-End e UI Designer. Tenho mais de um ano de experiência em desenvolvimento web e habilidades em UI design, 
-  aplicadas em projetos práticos pessoais e profissionais. Possuo inglês entre os niveis básico ao intermediário, mas sou capaz de formular frases e me comunicar sobre determinados assuntos.
+ Olá, me chamo Douglas e sou desenvolvedor Front-End e UI Design. Tenho mais de um ano de experiência em desenvolvimento web e habilidades em UI design, aplicadas em projetos práticos pessoais e profissionais. Possuo inglês entre os niveis A2 e B1, sou capaz de formular frases e me comunicar sobre determinados assuntos.
+</p>
+
+# ENGLISH
+<p align="left"> 
+ Hello, my name is Douglas, and I am a Front-End Developer and UI Designer. I have over a year of experience in web development and UI design skills, applied to both personal and professional projects. My English proficiency is between A2 and B1 levels; I can formulate sentences and communicate on certain topics.
 </p>
 
 
