@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
- Olá, me chamo Douglas e sou desenvolvedor Front-End e UI/UX Design. Tenho mais de um ano de experiência em desenvolvimento web e habilidades em UI/UX design, aplicadas em projetos práticos pessoais e profissionais. Possuo inglês entre os niveis A2 e B1.
+ Front-End Developer & UI/UX Designer focado em criar interfaces modernas, acessíveis e de alta performance. Experiência com HTML, CSS, JavaScript, WordPress e práticas de design responsivo. Estudo inglês em nível básico (A2), com foco em leitura técnica e comunicação em ambientes de trabalho remoto.
 </p>
 
  - ENGLISH
 <p align="left"> 
- Hello, my name is Douglas, and I am a Front-End Developer and UI/UX Designer. I have over a year of experience in web development and UI/UX design skills, applied to both personal and professional projects. My English proficiency is between A2 and B1 levels.
+ Front-End Developer & UI/UX Designer focused on creating modern, accessible, and high-performance interfaces. Experienced with HTML, CSS, JavaScript, WordPress, and responsive design practices. Currently studying English at a basic level (A2), focusing on technical reading and communication in remote work environments.
 </p>
 
 
